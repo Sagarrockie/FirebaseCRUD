@@ -1,5 +1,28 @@
-# FirebaseCRUD
-User Management App This is a Flutter app that allows you to manage user data using Firebase.  Features View a list of all users Add a new user Edit an existing user Delete a user
+# peaceglobal
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+User Management App
+This is a Flutter app that allows you to manage user data using Firebase.
+
+Features
+View a list of all users
+Add a new user
+Edit an existing user
+Delete a user
 Getting Started
 To get started, you'll need to set up a Firebase project and enable Firestore. You'll also need to add your Firebase configuration files to the project.
 
